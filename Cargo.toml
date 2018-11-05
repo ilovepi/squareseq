@@ -1,0 +1,8 @@
+[package]
+name = "squares"
+version = "0.1.0"
+authors = ["Paul Kirth <pk1574@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+time = "*"
